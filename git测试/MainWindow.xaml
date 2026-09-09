@@ -11,4 +11,7 @@
             
         </StackPanel>
     </Grid>
+    <Window.Resources>
+        
+    </Window.Resources>
 </Window>
