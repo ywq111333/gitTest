@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace git测试.Models
 {
     class Class3
-    {
+    {public string Name { get; set; }
     }
 }
